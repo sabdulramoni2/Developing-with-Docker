@@ -58,7 +58,7 @@ Step 7: Access you nodejs application UI from browser
 
     http://localhost:3000
 
-    ![image](https://github.com/user-attachments/assets/9207da44-0da9-4517-b722-52f147888bda)
+![image](https://github.com/user-attachments/assets/9207da44-0da9-4517-b722-52f147888bda)
 
 
 ### With Docker Compose
