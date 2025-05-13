@@ -61,6 +61,9 @@ Step 7: Access you nodejs application UI from browser
 ![image](https://github.com/user-attachments/assets/9207da44-0da9-4517-b722-52f147888bda)
 
 
+![image](https://github.com/user-attachments/assets/1abb9c40-2bcf-4fd5-82bb-f8b5a6618d34)
+
+
 ### With Docker Compose
 
 #### To start the application
