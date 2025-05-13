@@ -15,7 +15,7 @@ Step 1: Create docker network
 
     docker network create mongo-network 
 
-    ![image](https://github.com/user-attachments/assets/8d4a1f41-914b-435c-ba6f-2015f2a3d512)
+![image](https://github.com/user-attachments/assets/8d4a1f41-914b-435c-ba6f-2015f2a3d512)
 
 
 Step 2: start mongodb 
