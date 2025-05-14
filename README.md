@@ -109,5 +109,13 @@ Step 5: access the nodejs application from browser
 #### To build a docker image from the application
 
     docker build -t my-app:1.0 .       
+
+
+![image](https://github.com/user-attachments/assets/56f70227-47b3-4135-aa30-b0ae94ab87ff)
+
+
+![image](https://github.com/user-attachments/assets/ea9cc0fe-2915-4c2e-9278-d5afd5981d07)
+
+
     
 The dot "." at the end of the command denotes location of the Dockerfile.
